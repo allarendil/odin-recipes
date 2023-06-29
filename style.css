@@ -1,3 +1,8 @@
+body {
+    background-color: rgb(179, 109, 109);
+}
+
+
 .container {
     background-color: blanchedalmond;
     text-align: left;
@@ -5,7 +10,7 @@
     width: 600px;
     align-items: center;
     padding: 30px;
-    margin: 30px;
+    margin: 30px auto;
     border: 5px solid black;
     font-family: 'optima', 'Copperplate' 'Arial Narrow', Arial, sans-serif;
 }
